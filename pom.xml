@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.174.166:9908/jksolutions/repository/jksolutionsrelease1.0/</url>
+	      <url>http://13.126.49.64:9908/jksolutions/repository/jksolutionsrelease1.0/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.174.166:9908/jksolutions/repository/jksolutions-snapshot/</url>
+	      <url>http://13.126.49.64:9908/jksolutions/repository/jksolutions-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
